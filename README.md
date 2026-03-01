@@ -1,6 +1,6 @@
 # cursor-gpu-skills
 
-Cursor IDE 的 GPU 开发 Skill 集合，包含四个 Skill:
+Cursor IDE 的 GPU 开发 Skill 集合，目前包含四个 Skill:
 
 | Skill | 层级 | 使用场景 |
 |:------|:-----|:---------|
@@ -12,7 +12,7 @@ Cursor IDE 的 GPU 开发 Skill 集合，包含四个 Skill:
 ## 安装
 
 ```bash
-git clone https://github.com/<your-username>/cursor-gpu-skills.git
+git clone https://github.com/slowlyC/cursor-gpu-skills.git
 cd cursor-gpu-skills
 
 # 1. 获取外部源码 repo (sparse checkout, ~114MB)
